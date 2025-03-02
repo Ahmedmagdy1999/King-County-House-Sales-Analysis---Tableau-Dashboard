@@ -1,4 +1,4 @@
-# King Washington House Sales Dashboard
+# King County House Sales Analysis - Tableau Dashboard 
 
 ## Project Overview
 
@@ -6,11 +6,9 @@ The King Washington House Sales Dashboard is an interactive visualization built 
 
 ## Tools & Technologies Used
 
-Power BI – For data visualization and dashboard creation
+Tableau** – Data visualization & dashboard building 
 
 Excel – For initial data exploration
-
-SQL – For data cleaning and transformation (if applicable)
 
 GitHub – For version control and project sharing
 
