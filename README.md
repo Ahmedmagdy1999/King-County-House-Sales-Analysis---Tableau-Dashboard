@@ -63,19 +63,16 @@ The King Washington House Sales Dashboard enables users to:
 ✅ Explore property distributions 🏡
 ✅ Make data-driven investment decisions 💡
 
-## GitHub Repository
-
-Check out the full project here: [GitHub Link]
 
 ## Business Value & Skills Demonstrated
 
-Data Analytics & Visualization – Showcasing expertise in Power BI for interactive reporting
+Data Analytics & Visualization – Showcasing expertise in Tableau for interactive reporting
 
 Real Estate Market Insights – Extracting meaningful patterns from housing data
 
 Problem-Solving & Decision Support – Creating dashboards that empower stakeholders
 
-Technical Proficiency – SQL, Excel, Power BI, and data storytelling
+Technical Proficiency – Excel, Tableau, and data storytelling
 
 ## Let’s Connect!
 
